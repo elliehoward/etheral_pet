@@ -1,0 +1,8 @@
+{
+  "name": "AetherPet AI",
+  "description": "A high-fidelity virtual pet companion powered by Gemini AI. Create your unique pet using text prompts or photo uploads, and engage in meaningful conversations with a companion that evolves and reacts in real-time. Self-care focued,",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
